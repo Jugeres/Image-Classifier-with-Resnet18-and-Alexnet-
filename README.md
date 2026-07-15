@@ -1,5 +1,3 @@
-# Modul 1 – Dasar Deep Learning & Computer Vision
-
 ## Struktur Folder
 
 ```
